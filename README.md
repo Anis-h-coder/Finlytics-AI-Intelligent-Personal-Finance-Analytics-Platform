@@ -1,4 +1,4 @@
-# Finlytics AI — Intelligent Wealth & Risk Suite
+# Finlytics AI — Intelligent Personal Finance Analytics Platform
 
 Finlytics AI is a comprehensive, full-stack personal finance manager and machine learning-powered audit tool. It allows users to track their transaction ledgers, analyze spending allocations, forecast future balances, consult an interactive AI Financial Advisor, and flag transaction anomalies using modern isolation forest models.
 
