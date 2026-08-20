@@ -156,11 +156,15 @@ Comprehensive ledger with categorized transactions, suspicious activity detectio
 
 ---
 
-### 7. Machine Learning Anomaly Detection
+### 7. Budget Planner
 
-Isolation Forest engine identifies suspicious financial activities and provides protective recommendations.
+Dynamic target allocation and tracking system designed to establish monthly category limits and prevent overspending.
 
-<img width="1894" height="980" alt="Screenshot 2026-08-03 150955" src="https://github.com/user-attachments/assets/4ac2cd0f-5d53-4ee2-b45a-66710dfbc965" />
+<img width="1896" height="1015" alt="Screenshot 2026-08-20 162027" src="https://github.com/user-attachments/assets/aaa0b917-ccc3-4adf-894a-f17a7022263e" />
+
+
+<img width="1895" height="1020" alt="Screenshot 2026-08-20 162041" src="https://github.com/user-attachments/assets/63bc406c-490f-4594-ae83-f910cc868e4a" />
+
 
 ---
 
@@ -170,7 +174,9 @@ Deep statistical breakdowns, health scoring, and category trend analysis providi
 
 <img width="1896" height="942" alt="Screenshot 2026-08-20 161814" src="https://github.com/user-attachments/assets/9d849e80-f7d3-4847-9c18-5eacbaa1e6a4" />
 
+
 <img width="1892" height="1015" alt="Screenshot 2026-08-20 161846" src="https://github.com/user-attachments/assets/d913b3be-daa7-4162-87b7-aaa29d00a6bb" />
+
 
 <img width="1902" height="1019" alt="Screenshot 2026-08-20 161927" src="https://github.com/user-attachments/assets/bd8c3bf8-1f06-4be4-a60d-25341f478ad0" />
 
@@ -183,17 +189,44 @@ Interactive conversational Copilot powered by Google Gemini that answers real-ti
 
 <img width="1898" height="1009" alt="Screenshot 2026-08-20 163722" src="https://github.com/user-attachments/assets/2e8b2e02-1b76-49e3-82db-d829b022df59" />
 
+
 <img width="1902" height="1006" alt="Screenshot 2026-08-20 163755" src="https://github.com/user-attachments/assets/3c5b6b60-d593-4c15-83f0-db5728cae0e6" />
 
+
 <img width="1897" height="1005" alt="Screenshot 2026-08-20 163821" src="https://github.com/user-attachments/assets/8e6a39ca-193e-4902-bbf3-2e204faed668" />
+
 
 <img width="1897" height="1004" alt="Screenshot 2026-08-20 163846" src="https://github.com/user-attachments/assets/1c0cd1e0-869c-4cd5-b676-f128421ca701" />
 
 ---
 
-### 10. 
+### 10. Subscriptions & Bills
+
+Automated recurring expense detection and tracking engine that identifies recurring vendor charges, renewal cycles, and cost anomalies.
+
+<img width="1898" height="1015" alt="Screenshot 2026-08-20 162059" src="https://github.com/user-attachments/assets/17f026eb-41cf-430c-a67b-e0f92619489c" />
+
+
+<img width="1895" height="1016" alt="Screenshot 2026-08-20 162130" src="https://github.com/user-attachments/assets/eede47ab-0ca1-4d82-b06b-23ebc82a03a2" />
+
 
 ---
+
+### 11. Unusual Expenses
+
+Unsupervised Machine Learning anomaly detection engine that flags suspicious purchases, high-risk outliers, and behavioral spending deviations.
+
+<img width="1893" height="1015" alt="Screenshot 2026-08-20 164632" src="https://github.com/user-attachments/assets/b24da55a-2013-457e-bce8-32c45b38d453" />
+
+---
+### 12.Spending Forecast
+
+Additive time-series predictive modeling engine with confidence interval analysis that projects future cash flow requirements and seasonal expenditure cycles.
+
+<img width="1898" height="1011" alt="Screenshot 2026-08-20 164606" src="https://github.com/user-attachments/assets/f14e0ea1-9eaa-47d8-bf84-8e5628c653e1" />
+
+---
+
 
 # 🏗️ Project Architecture
 
