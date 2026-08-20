@@ -4,49 +4,39 @@ Finlytics AI is an AI-powered personal finance intelligence platform that transf
 
 Designed for individuals seeking intelligent budgeting, spending optimization, and financial risk analysis.
 
----
+🚀 Features
 
-## 🚀 Features
-
-### 📊 Smart Financial Dashboard
-
+📊 Smart Financial Dashboard
 Monitor your complete financial health from one place.
 
 Features include:
 
-- Total Spending
-- Average Spending
-- Highest Expense
-- Financial Health Score
-- Risk Score
-- Monthly Spending Trends
-- Category Allocation Charts
-- PDF Report Export
+Total Spending
+Average Spending
+Highest Expense
+Financial Health Score
+Risk Score
+Monthly Spending Trends
+Category Allocation Charts
+PDF Report Export
 
----
-
-### 💳 Intelligent Transaction Management
-
+💳 Intelligent Transaction Management
 Manage transactions effortlessly.
 
 Supports:
 
-- Manual Transaction Entry
-- Secure CSV Bank Statement Upload
-- Automatic Category Detection
-- Merchant Recognition
-- Transaction History
-- Delete & Refresh Operations
+Manual Transaction Entry
+Secure CSV Bank Statement Upload
+Automatic Category Detection
+Merchant Recognition
+Transaction History
+Delete & Refresh Operations
 
----
-
-### 🤖 Machine Learning Transaction Classification
-
+🤖 Machine Learning Transaction Classification
 Automatically categorizes transaction descriptions using NLP.
 
 Examples:
 
-```
 STARBUCKS COFFEE
 → Food & Dining (94%)
 
@@ -55,89 +45,73 @@ UBER TRIP
 
 NETFLIX
 → Entertainment
-```
 
 Powered by:
 
-- TF-IDF Vectorization
-- Similarity Matching
-- Rule-based Classification
+TF-IDF Vectorization
+Similarity Matching
+Rule-based Classification
 
----
-
-### 🚨 AI Anomaly Detection
-
+🚨 AI Anomaly Detection
 Uses Isolation Forest Machine Learning to detect unusual financial activities.
 
 Detects:
 
-- High-value purchases
-- Suspicious merchant behavior
-- Spending spikes
-- Unusual transaction timing
-- Budget outliers
+High-value purchases
+Suspicious merchant behavior
+Spending spikes
+Unusual transaction timing
+Budget outliers
 
 Includes:
 
-- Isolation Score
-- Risk Rating
-- AI-generated protection recommendations
+Isolation Score
+Risk Rating
+AI-generated protection recommendations
 
----
-
-### 📈 Financial Forecasting
-
+📈 Financial Forecasting
 Analyze future spending trends using historical transaction patterns.
 
 Provides:
 
-- Spending projections
-- Expense forecasts
-- Budget trend visualization
-- Financial outlook
+Spending projections
+Expense forecasts
+Budget trend visualization
+Financial outlook
 
----
-
-### 🧠 Gemini AI Financial Advisor
-
+🧠 Gemini AI Financial Advisor
 Receive personalized financial guidance powered by Google Gemini.
 
 The advisor generates:
 
-- Executive Summary
-- Spending Analysis
-- Cash Flow Analysis
-- Financial Health Report
-- Personalized Recommendations
-- Savings Opportunities
-- Risk Assessment
-- Budget Optimization Strategy
+Executive Summary
+Spending Analysis
+Cash Flow Analysis
+Financial Health Report
+Personalized Recommendations
+Savings Opportunities
+Risk Assessment
+Budget Optimization Strategy
 
----
-
-### 📄 Professional PDF Reports
-
+📄 Professional PDF Reports
 Export detailed financial reports containing:
 
-- Executive Summary
-- Charts
-- Spending Distribution
-- Risk Analysis
-- AI Recommendations
-- Transaction Summary
+Executive Summary
+Charts
+Spending Distribution
+Risk Analysis
+AI Recommendations
+Transaction Summary
 
----
-
-### 🔒 Secure Authentication
-
+🔒 Secure Authentication
 Authentication powered by secure login.
 
 Features:
 
-- User Registration
-- Login
-- Password Visibility Toggle
-- Session Management
+User Registration
+Login
+Password Visibility Toggle
+Session Management
 
 ---
 
