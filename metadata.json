@@ -1,6 +1,0 @@
-{
-  "name": "Finlytics AI",
-  "description": "Intelligent personal finance analytics platform with secure user authentication, smart dashboard, ML categorization, anomaly detection, forecasting, and AI financial advisor.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
