@@ -164,29 +164,34 @@ Isolation Forest engine identifies suspicious financial activities and provides 
 
 ---
 
-### 8. AI Executive Financial Report
+### 8. Financial Insights
 
-Automatically generated executive summary with financial health scores and key performance indicators.
+Deep statistical breakdowns, health scoring, and category trend analysis providing full visibility into spending habits.
 
-<img width="1919" height="1008" alt="Screenshot 2026-08-03 151101" src="https://github.com/user-attachments/assets/c1648d2e-0212-4adb-8e2e-f59946128135" />
+<img width="1896" height="942" alt="Screenshot 2026-08-20 161814" src="https://github.com/user-attachments/assets/9d849e80-f7d3-4847-9c18-5eacbaa1e6a4" />
 
----
+<img width="1892" height="1015" alt="Screenshot 2026-08-20 161846" src="https://github.com/user-attachments/assets/d913b3be-daa7-4162-87b7-aaa29d00a6bb" />
 
-### 9. Spending & Risk Analysis
-
-Detailed AI analysis of spending behavior, category distribution, and detected financial risks.
-
-<img width="1889" height="1006" alt="Screenshot 2026-08-03 151115" src="https://github.com/user-attachments/assets/fed830f5-ea12-480f-85fa-771f46d92ac1" />
+<img width="1902" height="1019" alt="Screenshot 2026-08-20 161927" src="https://github.com/user-attachments/assets/bd8c3bf8-1f06-4be4-a60d-25341f478ad0" />
 
 
 ---
 
-### 10. Personalized Financial Recommendations
+### 9. AI Assistant
 
-Google Gemini generates personalized budgeting strategies, savings opportunities, and actionable financial advice.
+Interactive conversational Copilot powered by Google Gemini that answers real-time financial queries and provides context-aware guidance.
 
-<img width="1894" height="1002" alt="Screenshot 2026-08-03 151130" src="https://github.com/user-attachments/assets/0fa60c7c-1b7b-41bd-a483-09e80d6ffc10" />
+<img width="1898" height="1009" alt="Screenshot 2026-08-20 163722" src="https://github.com/user-attachments/assets/2e8b2e02-1b76-49e3-82db-d829b022df59" />
 
+<img width="1902" height="1006" alt="Screenshot 2026-08-20 163755" src="https://github.com/user-attachments/assets/3c5b6b60-d593-4c15-83f0-db5728cae0e6" />
+
+<img width="1897" height="1005" alt="Screenshot 2026-08-20 163821" src="https://github.com/user-attachments/assets/8e6a39ca-193e-4902-bbf3-2e204faed668" />
+
+<img width="1897" height="1004" alt="Screenshot 2026-08-20 163846" src="https://github.com/user-attachments/assets/1c0cd1e0-869c-4cd5-b676-f128421ca701" />
+
+---
+
+### 10. 
 
 ---
 
