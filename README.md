@@ -145,7 +145,7 @@ Upload bank statements using drag-and-drop CSV import.
 
 Interactive dashboard showing financial metrics, spending trends, category allocation, and AI-generated insights.
 
-<img width="1899" height="1004" alt="Screenshot 2026-08-03 150907" src="https://github.com/user-attachments/assets/25fe52d2-34a6-4bab-8a29-1d18c2096c5c" />
+<img width="1895" height="1010" alt="Screenshot 2026-08-20 161723" src="https://github.com/user-attachments/assets/4a61e97e-abf5-4677-8d5b-9cc832473db1" />
 
 ---
 
